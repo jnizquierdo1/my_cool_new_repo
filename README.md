@@ -17,4 +17,11 @@ print("Hello World, I am taking over")
 ```
 
 In my song, My Shot. Hamilton Says
->Just like my country, I'm young scrappy and so on
+>Just like my country, I'm young scrappy and so on.
+
+
+## Table of Contents
+[code](Ourcode)
+[data](Ourdata)
+[references](Ourreferences)
+
