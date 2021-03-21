@@ -1,4 +1,9 @@
 # *Headline: My cool new repo is here !*
+
+![Ferrari](images/formula1ferrari.jpeg)
+
+
+
 ## Section heading
 in this section well talk about lettuce
 
