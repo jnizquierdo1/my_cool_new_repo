@@ -15,3 +15,6 @@ i wrtie a lot of code, here is a little bit"
 ```python
 print("Hello World, I am taking over")
 ```
+
+In my song, My Shot. Hamilton Says
+>Just like my country, I'm young scrappy and so on
