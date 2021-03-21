@@ -10,6 +10,8 @@ For a specific kind of letttuce
 
 ---
 
-my cool new repo
-hello,
-i am adding an update to my repo
+
+i wrtie a lot of code, here is a little bit"
+```python
+print("Hello World, I am taking over")
+```
