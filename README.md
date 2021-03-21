@@ -21,7 +21,11 @@ In my song, My Shot. Hamilton Says
 
 
 ## Table of Contents
-[code](Ourcode)
-[data](Ourdata)
-[references](Ourreferences)
+* [Our Code](code)
+
+* [Our data](data)
+
+* [Our references](references)
+
+
 
